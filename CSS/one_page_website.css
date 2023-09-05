@@ -1,0 +1,16 @@
+body {
+    background-color: yellowgreen;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: darkgray;
+}
+h1 {
+    color:bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+form input[type="text"] {
+    width: 20%;
+    margin: 5px;
+    border: 2px solid papayawhip;
+    border-radius: 7px;
+}
